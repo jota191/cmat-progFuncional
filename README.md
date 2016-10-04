@@ -1,1 +1,1 @@
-Repositorio de recursos del curso de Programación funcional para la licenciatura en matemáticas. Segundo semestre 2016.
+Repositorio de recursos del curso de Programación funcional para la licenciatura en matemática. Segundo semestre 2016.
