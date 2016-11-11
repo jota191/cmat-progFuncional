@@ -1,0 +1,16 @@
+Para instalar WXHaskell utilicen las guias en:
+
+https://wiki.haskell.org/WxHaskell
+
+La documentación de la biblioteca se encuentra en hackage:
+https://hackage.haskell.org/package/wx-0.92.1.0
+(ésta es de la penúltima versión, pero es mas cómodo para navegarla y es similar)
+
+El paper original de WXHaskell:
+https://wiki.haskell.org/wikiupload/6/65/Wxhaskell.pdf
+
+Tomar en cuenta que el codigo exactamente como está en el paper 
+no tiene por que compilar con las nuevas versiones de la biblioteca, ya que la misma
+ha cambiado bastante. Pero no deja de ser una buena guía si quieren entender con más
+profundidad como funciona.
+
